@@ -1,7 +1,7 @@
 What was used in the project?
 
 React Redux, react thunk, firebase for database and autentication. Routes ofcourse, lazy loading
-Jasmine and karma for testing
+jest and enzyme for testing
 
 
 How to use the downloaded files
